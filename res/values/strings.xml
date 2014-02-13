@@ -83,7 +83,7 @@
     <!-- AndroDevLinuxOTA About -->
     <string name="about_home_url"><a href="https://sites.google.com/site/androdevlinux/">AndroDevlinux-ROMS</a></string>
     <string name="about_ota">OTACenter allows you to easily manage\n your ROM!</string>
-    <string name="about_copyright">\u00A9 Copyright Slimroms 2013 modifed for AndroDevlinux-ROMs</string>
+    <string name="about_copyright">\u00A9 Copyright Slimroms 2013 modified for AndroDevlinux-ROMs</string>
     <string name="about_version">OTACenter 1.0</string>
     <string name="about_contact">Contact us at proxthehacker@gmail.com</string>
     <string name="about_contact_text">Tell us what you think\nor let us know about a bug or problem</string>
