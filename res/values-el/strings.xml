@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2014 AndroDevLinux
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+-->
+
+<resources>
+    <!-- AndroDevLinuxOTA main strings -->
+    <string name="app_name">AndroDevLinux-OTACenter</string>
+    <string name="menu_settings">Ρυθμίσεις</string>
+    <string name="device_title">Συσκευή</string>
+    <string name="device_name_title">Όνομα:</string>
+    <string name="codename_title">Codename:</string>
+    <string name="version_title">Έκδοση:</string>
+    <string name="file_name_title">Αρχείο:</string>
+    <string name="curVer">Τρέχουσα έκδοση</string>
+    <string name="ok">ΟΚ</string>
+    <string name="title_update">Ενημέρωση</string>
+    <string name="device_info_title">Πληροφορίες συσκευής</string>
+    <string name="up_to_date_title">Η συσκευή σας είναι ενημερωμένη</string>
+    <string name="no_data_title">Δεν υπάρχει διαθέσιμη σύνδεση δεδομένων</string>
+    <string name="error_reading_title">Αδυναμία ανάκτησης ρυθμίσεων του AndroDevlinuxOTA</string>
+    <string name="update_file_title">Ενημέρωση:</string>
+    <string name="reboot">Ολοκληρώθηκε! Επανεκκίνηση της συσκευής τώρα.</string>
+    <string name="reboot_ok">Επανεκκίνηση</string>
+    <string name="reboot_cancel">Ακύρωση</string>
+
+    <!-- AndroDevLinuxOTA settings -->
+    <string name="settings_title">Ρυθμίσεις OTA</string>    
+    <string name="update_interval_title">Συχνότητα ελέγχου αυτόματων ενημερώσεων</string>
+    <string name="update_interval_summary">Καθορίστε την συχνότητα ελέγχου των αυτόματων ενημερώσεων</string>
+    <string name="update_interval_day">Κάθε 24 ώρες</string>
+    <string name="update_interval_half_day">Κάθε 12 ώρες</string>
+    <string name="update_interval_hour">Κάθε ώρα</string>
+    <string name="update_interval_disable">Απενεργοποιημένο</string>
+
+    <!-- AndroDevLinuxOTA error messages -->
+    <string name="system_prop_error">Αδυναμία ανάγνωσης ρυθμίσεων του συστήματος</string>
+    <string name="bad_url">Αδυναμία μετάβασης στη σελίδα λήψεων της ROM.\nΠαρακαλούμε ενημερώστε τον percy_g2@XDA!</string>
+    <string name="menu_update">Αναζήτηση για ενημερώσεις</string>
+    <string name="toast_text">Γίνεται αναζήτηση για ενημέρωση συστήματος, παρακαλώ περιμένετε.</string>
+    <string name="toast_no_data_text">Δεν υπάρχει σύνδεση δεδομένων.Παρακαλούμε συνδεθείτε στο διαδίκτυο.</string>
+
+    <!-- AndroDevLinuxOTA shortcut fragment -->
+    <string name="short_cut_release_title">Σχετικά με τη ROM</string>
+    <string name="short_cut_changelog_title">Αρχείο αλλαγών</string>
+    <string name="short_cut_changelog_summary_update_available">Σημαντικό!!! Διαβάστε προσεκτικά το αρχείο αλλαγών και τις οδηγίες εγκατάστασης</string>
+    <string name="short_cut_download_summary_update_available">Υπάρχει διαθέσιμη μια νέα ενημέρωση AndroDevlinux-Roms.Κάντε λήψη εδώ!</string>
+    <string name="short_cut_changelog_summary">Εμφάνιση του αρχείου αλλαγών και των οδηγιών εγκατάστασης</string>
+    <string name="short_cut_additional_title">Επιπρόσθετα</string>
+    <string name="short_cut_faq_title">FAQ</string>
+    <string name="short_cut_faq_summary">Έρχεται σύντομα!</string>
+    <string name="short_cut_news_title">Νέα</string>
+    <string name="short_cut_news_summary">Διαβάστε τα πρόσφατα νέα του AndroDevLinux</string>
+    <string name="short_cut_download_title">Λήψη AndroDevlinux-Roms</string>
+    <string name="short_cut_download_uptodate_summary">Κάντε λήψη των AndroDevlinux-ROMS</string>
+    <string name="short_cut_download_gapps_title">Λήψη gapps</string>
+    <string name="short_cut_download_gapps_summary">Κάντε λήψη του πακέτου Gapps</string>
+
+    <string name="download_url">https://sites.google.com/site/androdevlinux/</string>
+    <string name="changelog_url"></string>
+    <string name="faq_url"></string>
+    <string name="news_url"></string>
+    <string name="gapps_url">http://bit.ly/ISA2tT</string>
+    <string name="gapps_url_kitkat">http://bit.ly/ISA2tT</string>
+
+    <!-- AndroDevLinuxOTA update checker -->    
+    <string name="xml_url">http://androdevlinux.comze.com/ota.xml</string>
+    <string name="xml_url_kitkat">http://androdevlinux.comze.com/ota.xml</string>
+    <string name="notification_message">Διαθέσιμη ενημέρωση AndroDevlinux-ROMs</string>
+
+    <!-- AndroDevLinuxOTA About -->
+    <string name="about_home_url"><a href="https://sites.google.com/site/androdevlinux/">AndroDevlinux-ROMS</a></string>
+    <string name="about_ota">Το OTACenter σας επιτρέπει να διαχειριστείτε έυκολα\nτην ROM σας!</string>
+    <string name="about_copyright">\u00A9 Πνευματικά δικαιώματα Slimroms 2013 τροποποιημένο για το AndroDevlinux-ROMs</string>
+    <string name="about_version">OTACenter 1.0</string>
+    <string name="about_contact">Επικοινωνήστε μαζί μας στο proxthehacker@gmail.com</string>
+    <string name="about_contact_text">Πείτε μας τι πιστεύετε για την εφαρμογή\n ή ενημερώστε μας κάποιο σφάλμα ή πρόβλημα</string>
+    <string name="about_license">Άδειες λογισμικού ανοιχτού κώδικα</string>
+    <string name="about_license_text">Εφαρμογή OTACenter:</string>
+    <string name="about_license_url"><a href="">gpl(2)</a></string>
+    <string name="menu_sizer">Εφαρμογές συστήματος</string>
+
+    <!-- AndroDevLinuxOTA Sizer  -->
+    <string name="listsystem">λίστα</string>
+    <string name="sizer_title">Εφαρμογές συστήματος</string>
+    <string name="caution">Προσοχή!</string>
+    <string name="sizer_message_startup">Αυτό το εργαλείο σας επιτρέπει να διαγράψετε εφαρμογές του συστήματος.Χρησιμοποιήστε το με προσοχή και αφαιρέστε μόνο τις εφαρμογές που γνωρίζετε πως δεν θα βλάψουν το σύστημα.</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="sizer_message_delete">Θέλετε να διαγράψετε αυτή την εφαρμογή;</string>
+    <string name="sizer_message_delete_multi_one">Θέλετε να διαγράψετε την επιλεγμένη εφαρμογή;</string>
+    <string name="sizer_message_delete_multi">Θέλετε να διαγράψετε τις επιλεγμένες εφαρμογές;</string>
+    <string name="btn_delete">Διαγραφή επιλεγμένων εφαρμογών!</string>
+    <string name="delete_progress_title">Διαγραφή</string>
+    <string name="delete_progress">Διαγράφονται τα επιλεγμένα αρχεία, παρακαλώ περιμένετε.</string>
+    <string name="delete_success">Διαγράφηκε</string>
+    <string name="delete_fail">Αδυναμία διαγραφής</string>
+    <string name="btn_profile">Προφίλ</string>
+    <string name="sizer_message_sdnowrite">Αδυναμία εγγραφής στην κάρτα SD.</string>
+    <string name="sizer_message_sdnoread">Αδυναμία ανάγνωσης της κάρτας SD.</string>
+    <string name="sizer_message_filesuccess">Δημιουργήθηκε το προφίλ.</string>
+    <string name="sizer_message_filefail">Αδυναμία δημιουργίας προφίλ.</string>
+    <string name="sizer_message_noselect">Δεν επιλέχθηκε τίποτα.</string>
+    <string name="ota_title">Updater</string>
+
+    <!-- About -->
+    <string name="about_title">AndroDev</string>
+    <string name="devs">Προγραμματιστής</string>
+    <string name="website_title">Ιστότοπος AndroDevLinux</string>
+    <string name="website_summary">https://sites.google.com/site/androdevlinux\nΘα βρείτε όλα τα τελευταία νέα του AndroDevLinux-Rom</string>
+    <string name="irc_title">ADL</string>
+    <string name="irc_summary">Συνδεθείτε στο κανάλι IRC!\nΕπικοινωνήστε με την ομάδα του AndroDevLinux-Rom και με άλλους χρήστες</string>
+    <string name="donate_title">Δωρεά</string>
+    <string name="donate_summary">Δωρεά στον percy_g2 aka percy gahlot</string>
+    <string name="source_title">Πηγαίος κώδικας του percy-g2</string>
+    <string name="source_summary">Το AndroDevLinux είναι έργο ανοιχτού κώδικα.\nΠηγαίος κώδικας στο github.com/percy-g2</string>
+    <string name="no_irc">Δεν βρέθηκε η εφαρμογή ADLIRC.</string>
+    <string name="center_summary">Το <b>OTACenter</b> σας παρέχει τα εργαλεία &amp; τις πληροφορίες για να γίνει ακόμα καλύτερη η εμπειρία σας με το AndroDevLinux-Rom. Αναβαθμίστε τη συσκευή σας αυτόματα στην πιο πρόσφατη έκδοση της ROM με το <b>OTACenter</b>.</string>
+    <string name="bugreport">Αναφορά σφάλματος</string>
+    <string name="bugreport_summary">Δημιουργία αναφοράς σφάλματος.</string>
+    <string name="report_infosuccess">Δημιουργήθηκε αναφορά συστήματος,επισυνάψτε την στην αναφορά σφάλματος και στείλτε την στο AndroDevLinux-Rom! Μπορείτε να βρείτε το αρχείο zip στην κάρτα SD στον φάκελο με όνομα \"percy\".</string>
+    <string name="report_infofail">Αποτυχία δημιουργίας της αναφοράς σφάλματος,παρακαλούμε προσπαθήστε ξανά.</string>
+
+</resources>
