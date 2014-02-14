@@ -50,7 +50,7 @@
     <string name="bad_url">Αδυναμία μετάβασης στη σελίδα λήψεων της ROM.\nΠαρακαλούμε ενημερώστε τον percy_g2@XDA!</string>
     <string name="menu_update">Αναζήτηση για ενημερώσεις</string>
     <string name="toast_text">Γίνεται αναζήτηση για ενημέρωση συστήματος, παρακαλώ περιμένετε.</string>
-    <string name="toast_no_data_text">Δεν υπάρχει σύνδεση δεδομένων.Παρακαλούμε συνδεθείτε στο διαδίκτυο.</string>
+    <string name="toast_no_data_text">Δεν υπάρχει σύνδεση δεδομένων.\nΠαρακαλούμε συνδεθείτε στο διαδίκτυο.</string>
 
     <!-- AndroDevLinuxOTA shortcut fragment -->
     <string name="short_cut_release_title">Σχετικά με τη ROM</string>
@@ -82,19 +82,19 @@
 
     <!-- AndroDevLinuxOTA About -->
     <string name="about_home_url"><a href="https://sites.google.com/site/androdevlinux/">AndroDevlinux-ROMS</a></string>
-    <string name="about_ota">Το OTACenter σας επιτρέπει να διαχειριστείτε έυκολα\nτην ROM σας!</string>
+    <string name="about_ota">Το OTACenter σας επιτρέπει να διαχειριστείτε εύκολα\nτην ROM σας!</string>
     <string name="about_copyright">\u00A9 Πνευματικά δικαιώματα Slimroms 2013 τροποποιημένο για το AndroDevlinux-ROMs</string>
     <string name="about_version">OTACenter 1.0</string>
     <string name="about_contact">Επικοινωνήστε μαζί μας στο proxthehacker@gmail.com</string>
     <string name="about_contact_text">Πείτε μας τι πιστεύετε για την εφαρμογή\n ή ενημερώστε μας κάποιο σφάλμα ή πρόβλημα</string>
-    <string name="about_license">Άδειες λογισμικού ανοιχτού κώδικα</string>
+    <string name="about_license">Άδεια λογισμικού ανοιχτού κώδικα</string>
     <string name="about_license_text">Εφαρμογή OTACenter:</string>
     <string name="about_license_url"><a href="">gpl(2)</a></string>
     <string name="menu_sizer">Εφαρμογές συστήματος</string>
 
     <!-- AndroDevLinuxOTA Sizer  -->
     <string name="listsystem">λίστα</string>
-    <string name="sizer_title">Εφαρμογές συστήματος</string>
+    <string name="sizer_title">Εφαρμογες συστηματος</string>
     <string name="caution">Προσοχή!</string>
     <string name="sizer_message_startup">Αυτό το εργαλείο σας επιτρέπει να διαγράψετε εφαρμογές του συστήματος.Χρησιμοποιήστε το με προσοχή και αφαιρέστε μόνο τις εφαρμογές που γνωρίζετε πως δεν θα βλάψουν το σύστημα.</string>
     <string name="cancel">Ακύρωση</string>
@@ -112,7 +112,7 @@
     <string name="sizer_message_filesuccess">Δημιουργήθηκε το προφίλ.</string>
     <string name="sizer_message_filefail">Αδυναμία δημιουργίας προφίλ.</string>
     <string name="sizer_message_noselect">Δεν επιλέχθηκε τίποτα.</string>
-    <string name="ota_title">Updater</string>
+    <string name="ota_title">Κεντρο ενημερωσεων</string>
 
     <!-- About -->
     <string name="about_title">AndroDev</string>
